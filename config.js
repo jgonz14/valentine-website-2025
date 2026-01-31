@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Do you have any guesses as to what this could be? 💝",
+    pageTitle: "Do you have any guesses as to what this could be? 🤔",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next 💜"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Will you be my Valentine? 🌹", // The big question!
             yesBtn: "Por su puesto",                                             // Text for "Yes" button
             noBtn: "Absoulatamente no"                                                 // Text for "No" button
         }
@@ -42,14 +42,14 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Mas de lo que te puedes imaginar?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "De aqui, a la luna, a pasitos de tortuga! 🚀💝",              // Shows when they go past 1000%
+        extreme: "Mas de lo que te puedes imaginar",  // Shows when they go past 5000%
+        high: "De aqui, a la luna, a pasitos de tortuga! 🌕🐢",              // Shows when they go past 1000%
         normal: "Muchisisimo! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "You make me the happiest girl in the world! 🎉💝💖💝💓",
+        title: "Eres tu",
         message: "It's always been you for me Martinez. It could never be anyone else.",
         emojis: "🥺😘🩵💜"  // These will bounce around
     },
